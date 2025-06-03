@@ -4,36 +4,32 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello! I'm Elise Stanculescu, a driven and analytical sophomore double majoring in Finance with an Accounting concentration, and Data Science with an AI minor at Lake Forest College. I'm passionate about uncovering insights from complex data and applying them to strategic financial decision-making. I'm particularlly interested in financial technology, quantatative finance, and investment analysis.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Write more info here...</p>
 
-<h2>Skills</h2>
+<h2>Technical Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Java</li>
+	<li>CSS</li>
+	<li>HTML</li>
+	<li>Pandas</li>
+	<li>NumPy</li>
+	<li>Matplotlib</li>
+	<li>Git</li>
+	<li>Excel</li>
+	<li>Financial Modeling</li>
+	<li>Accounting Principles</li>
+</ul>
+
+<h2>Soft Skills</h2>
+<ul class="skill-list">
+	<li>Strong analytical and problem solving skills</li>
+	<li>Clear comminucator and a team player</li>
+	<li>Detail oriented and ethically grounded</li>
+	<li>Quick learner with experience in high pressure environments</li>
 </ul>
 
 <h2>Projects</h2>

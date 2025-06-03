@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Elise Stanculescu
+bio: An aspiring Finance and Data Scientist
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -21,7 +21,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# your url: https://estanculescu.github.io
 
 permalink: /:title/
 
@@ -34,22 +34,22 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+linkedin: elise-stanculescu
+github: estanculescu
+email: elise.stanculescu7@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Elise Stanculescu
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
-    name: James Foster
+    name: Elise Stanculescu
     bio: A Man who develops software with coffee
     external-image: false
     picture: assets/images/james.jpg
