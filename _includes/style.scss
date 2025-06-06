@@ -21,3 +21,22 @@
 @import "components/side-by-side";
 @import "components/social-links";
 @import "components/spoiler";
+
+
+.cert-button {
+  color: black;
+  background-color: white;
+  padding: 4px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  margin-top: 6px;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 0 0 1px #ccc;
+}
+
+.cert-button:hover {
+  background-color: #f1f1f1;
+  box-shadow: 0 0 0 1px #999;
+}
